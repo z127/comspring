@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf52914-017a-4170-8f51-e90b007feb05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../comspring/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../comspring/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../comspring/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="eaf52914-017a-4170-8f51-e90b007feb05" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../comspring/out/" />
     <ignored path="$PROJECT_DIR$/../comspring/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -450,7 +447,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523884468876</updated>
-      <workItem from="1523884472147" duration="11019000" />
+      <workItem from="1523884472147" duration="11035000" />
     </task>
     <task id="LOCAL-00001" summary="2018 04 17 initial commit">
       <created>1523931469631</created>
@@ -459,11 +456,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523931469631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2018 04 17 initial commit">
+      <created>1523931557550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523931557550</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11019000" />
+    <option name="totallyTimeSpent" value="11035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
