@@ -34,11 +34,16 @@ public class PersonService {  // 模拟内存数据库，准备数据
         return new ArrayList(map.values());
     }
 
-
     // 新增人员信息
     public void insert(Person p) {
         id++;
         p.setId(id);
         map.put(id, p);
     }
+
+    // 修改人员信息
+    public void update(Person p) {
+        map.put(p.getId(), p);
+    }
+
 }
